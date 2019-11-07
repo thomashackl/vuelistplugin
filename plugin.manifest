@@ -1,0 +1,7 @@
+pluginname=VueList
+pluginclassname=VueListPlugin
+origin=upa
+version=0.1
+description=Test plugin for vue.js integration
+studipMinVersion=4.2
+studipMaxVersion=4.9.99
